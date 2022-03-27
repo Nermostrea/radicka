@@ -1,0 +1,8 @@
+{
+  "sqlitePath": "./gtfs.sqlite",
+  "agencies": [
+    {
+      "url": "http://data.pid.cz/PID_GTFS.zip"
+    }
+  ]
+}
