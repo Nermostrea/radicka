@@ -4,7 +4,9 @@
 
 Pracuje s aktuálními daty z provozu napojenými na páteřní databázi Golemio, kterou provozuje městský podnik Operátor ICT. Řadička je tak schopna v reálném čase sledovat provoz a vyhodnotit u vlaků přijíždějících ze dvou větví do frekventovaného úseku, který z nich má jet první.
  
-Po vyhodnocení tuto zprávu předá řidičům, kteří pak mají dostatek informací o tom, co se děje. Už dost chaotickému ukazování prstů, nejasností a rozhněvaných řidičů i cestujících. Řadička pomáhá přesně tam, kde je to třeba: na vytíženém místě dopravní sítě. Pomáhá zajistit plynulejší provoz a přehlednou situaci pro naše řidiče. Jako ukázku fungování tohoto nástroje jsme vytvořili podpůrný web: https://radicka-radicka.trials.codenow.com/hp
+Po vyhodnocení tuto zprávu předá řidičům, kteří pak mají dostatek informací o tom, co se děje. Už dost chaotickému ukazování prstů, nejasností a rozhněvaných řidičů i cestujících. Řadička pomáhá přesně tam, kde je to třeba: na vytíženém místě dopravní sítě. Pomáhá zajistit plynulejší provoz a přehlednou situaci pro naše řidiče.
+
+Jako ukázku fungování tohoto nástroje jsme vytvořili podpůrný web: https://radicka-radicka.trials.codenow.com/hp
 
 
 ## O aplikaci
