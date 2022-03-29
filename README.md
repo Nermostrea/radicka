@@ -7,7 +7,7 @@ Pracuje s aktuálními daty z provozu napojenými na páteřní databázi Golemi
 Po vyhodnocení tuto zprávu předá řidičům, kteří pak mají dostatek informací o tom, co se děje. Už dost chaotickému ukazování prstů, nejasností a rozhněvaných řidičů i cestujících. Řadička pomáhá přesně tam, kde je to třeba: na vytíženém místě dopravní sítě. Pomáhá zajistit plynulejší provoz a přehlednou situaci pro naše řidiče.
 
 Tento repozitář je kopií aplikace, která nám v Dockeru běží na **CodeNow**: https://radicka-radicka.trials.codenow.com/
-
+(aplikace je stále v aktivním vývoji a tak se mohou objevit výpadky/bugy)
 
 ## O aplikaci
 
